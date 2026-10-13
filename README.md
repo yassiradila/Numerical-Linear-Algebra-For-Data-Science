@@ -15,7 +15,7 @@ Includes full mathematical derivations, empirical benchmarks, and an exhaustive 
 
 ## 📑 Table of Contents
 
-- [Overview](#-overview)
+- [About this Project](#-about-this-project)
 - [Key Features & Theoretical Foundations](#-key-features--theoretical-foundations)
   - [1. Linear System Solvers ($Ax = b$)](#1-linear-system-solvers-mathbfa-mathbfx--mathbfb)
   - [2. Matrix Factorizations (SVD & QR)](#2-matrix-factorizations-svd--qr)
@@ -31,7 +31,7 @@ Includes full mathematical derivations, empirical benchmarks, and an exhaustive 
 
 ---
 
-## 📌 Overview
+## 📌 About this Project
 
 Numerical Linear Algebra is the computational backbone of modern Machine Learning, Data Science, and Computer Vision. Rather than treating linear algebra routines as black boxes, this project implements and analyzes algorithms from the ground up:
 
